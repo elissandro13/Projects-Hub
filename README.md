@@ -1,4 +1,4 @@
-# ResponsivePhotosGallery
+# ProjectsHub
 
 ## Usage
 
